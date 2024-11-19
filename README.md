@@ -1,4 +1,4 @@
-# Projeto StylistPro
+# Projeto PowerNow
 
 ## Integrantes
 Jaqueline Martins - RM551744 - DevOps & Cloud Computing <br>
@@ -8,43 +8,11 @@ Victor Freitas    - RM99982  - Advanced Business with C#/Quality Assurance<br>
 Breno Giacoppini  - RM98695  - Artificial Intelligence <br>
 
 ## PROPOSTA DE SOLUÇÃO
-Com a chegada da pandemia, diversas empresas apresentaram grandes
-dificuldades em se manterem competitivas e ativas em um mundo onde a
-reinvenção se mostrou necessária para a sobrevivência no mercado. Porém, os
-impactos da pandemia se mantiveram mesmo após seu término, ainda
-causando dificuldades para diversas empresas se reerguerem financeiramente.<br>
-
-No entanto, não somente a indústria sofreu mudanças, mas também a
-sociedade como um todo. A mudança de perspectiva sobre valores e condutas
-na sociedade está afetando diretamente as empresas envolvidas com moda e
-roupas, requisitando uma reinvenção nessas marcas e lojas à nova realidade
-proposta pela população, cuja necessidade de se reformular se torna
-imprescindível para seu crescimento, adaptando seu negócio para os mais
-diversos públicos e acompanhando as novas tendências.<br>
-
-Como citado em uma matéria do portal de notícias CNN Brasil, “[...] a resposta
-está na dificuldade em atender a demanda do consumidor brasileiro e de criar
-raízes no mercado nacional.” e “[...] o especialista (Ulysses Reis) afirma que
-ambas as empresas necessitavam de adequações às mudanças do mercado de
-consumo, especialmente em termos de inovação.”<br>
-
-Com essa necessidade em mente, nossa equipe propõe como solução a
-ferramenta StylistPro, focada no segmento de varejo de roupas e moda,
-visando o aprofundamento das necessidades do cliente, seus gostos e suas
-perspectivas futuras sobre o mercado para obter insights no desenvolvimento
-de novas peças a serem lançadas nas lojas. Isso será feito através de uma
-inteligência artificial que, através dos dados obtidos pelas mais diversas
-plataformas existentes como blogs, redes sociais e padrões de compra, assim
-como a observação de grandes movimentos da moda, gerará imagens de peças
-que estão e/ou serão tendência para o público-alvo, aumentando, assim, a
-identificação do consumidor com a peça desenvolvida. Além disso, com o
-crescimento da moda sustentável pelo mundo, também serão propostas
-soluções visando a utilização de materiais não poluentes, contribuindo para um
-desenvolvimento amigável ao planeta, estimulando a fixação de valores à
-empresa que também ocasionarão em uma maior conexão entre o consumidor
-e a empresa.<br>
-
-Para uma maior personalização e fidelização, um sistema de recomendação
-personalizado analisará as tendências de compra de cada um individualmente,
-além de auxiliar o consumidor em sua jornada na compra de vestimentas que
-aumentarão sua autoestima e satisfação com a plataforma e-commerce.
+O mercado de energia solar apresenta grande crescimento no Brasil. Conforme notícia do Portal Solar: 
+“O Brasil acrescentou 6,9 GW de energia solar no primeiro semestre de 2024, mostram dados da Agência Nacional de Energia Elétrica (Aneel) apurados pelo Portal Solar. O montante corresponde a 4 GW na geração distribuída, modalidade composta por sistemas residenciais e comerciais de menor porte, e 2,9 GW na geração centralizada, mercado formado por grandes usinas fotovoltaicas.
+Com o avanço, o país chegou a 44 GW de capacidade instalada na fonte solar, a segunda maior da matriz elétrica brasileira, atrás apenas da hídrica. O crescimento fez com que a Associação Brasileira de Energia Solar Fotovoltaica (Absolar) revisasse a projeção de crescimento para 2024, com perspectiva da tecnologia superar 47 GW acumulados ao final do ano. Em dezembro, a projeção era de 45,5 GW.*” <br>
+Com base nessas informações, desenvolvemos a solução PowerNow, um aplicativo intuitivo e informativo cujo principal objetivo é analisar a geração de energia de painéis solares para maximizar a eficiência da captação de energia, assim como informar de maneira tangível e lúdica os benefícios a curto e longo prazo de sua utilização, tanto economicamente quanto ecologicamente.
+A grande inovação do app é a integração de uma inteligência artificial que, com base em informações geográficas e climáticas, prevê a quantidade de energia que seria gerada nos próximos dias ou meses. Isso permitiria oferecer recomendações personalizadas sobre a utilização de eletrodomésticos, dispositivos inteligentes e ferramentas utilizadas para a captação da energia, como, por exemplo, sugerir o desligamento do sistema de rastreamento solar em dia com baixa incidência de luz, o que ajudaria a economizar energia, uma vez que o próprio mecanismo de rastreamento consome uma parte da energia gerada.<br>
+O aplicativo também inclui informações sobre o investimento inicial necessário para quem está começando a utilizar a energia solar. Ele ajudaria o usuário a entender o retorno sobre o investimento com base nas condições específicas de sua residência. A ideia é criar uma solução que incentive mais pessoas a adotarem a energia solar, proporcionando não apenas uma economia financeira, mas também um maior entendimento sobre os benefícios ambientais dessa tecnologia.
+<br>
+*Com 45,5 GW de energia solar instalada, o Brasil poderia fornecer energia para cerca de 218,4 milhões de pessoas (considerando um consumo médio de 150 kWh por pessoa por mês).
